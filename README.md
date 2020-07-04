@@ -7,7 +7,7 @@
 Katkıları memnuniyetle karşılıyoruz! Eklenecek düzenlemeleriniz veya yeni içeriğiniz varsa, lütfen
 bir issue açın veya bir pull request gönderin.
 
-## Türkçe Çeviri
+# Türkçe Çeviri
 Bu projenin çevrilmesine katkı sağlamak istiyorsanız lütfen aşağıdaki adımları takip edin:
 
 - Tüm Türkçe çeviri yönetimi [github issue'lar](https://github.com/missing-semester-tr/missing-semester-tr.github.io/issues) ve [github projeler](https://github.com/missing-semester-tr/missing-semester-tr.github.io/projects/1) üzerinden yürütülmektedir.(*Bu sayfaları inceleyebilirsiniz.*)
